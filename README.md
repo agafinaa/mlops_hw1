@@ -1,0 +1,1 @@
+models/model.cbm доступна по ссылке https://drive.google.com/drive/folders/1QUBSUNI4sUL9N2Pgb5nN0DmqQo1BXC3J?usp=sharing
